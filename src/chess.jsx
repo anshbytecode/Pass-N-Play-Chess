@@ -1,5 +1,4 @@
 import { useState, useCallback, useRef, useEffect } from "react";
-
 // ── Chess Logic ──────────────────────────────────────────────────────────────
 const PIECES = {
   wK:"♔",wQ:"♕",wR:"♖",wB:"♗",wN:"♘",wP:"♙",
